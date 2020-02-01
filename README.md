@@ -1,1 +1,1 @@
-# heroku-psql-cli-docker-image
+# heroku-psql-java-docker-image
